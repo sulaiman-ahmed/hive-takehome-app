@@ -1,3 +1,7 @@
+## About this project
+
+I've created a simple react dropdown component, that can be either multiselect or single select based on whether the MultiSelect prop is true or false. In single select mode, you should be able to see whatever item you select and clear the input field. In single select mode, you should be able to add multiple options, clear those options from the input filed, and add all the options at once.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -35,8 +39,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## About this project
-
-I've created a simple react dropdown component, that can be either multiselect or single select based on whether the MultiSelect prop is true or false. In single select mode, you should be able to see whatever item you select and clear the input field. In single select mode, you should be able to add multiple options, clear those options from the input filed, and add all the options at once.
 
 
